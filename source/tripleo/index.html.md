@@ -79,3 +79,4 @@ Demo 3 (March 9, 2015):
 
 *   IRC: **#tripleo** and **#rdo** channels on [Freenode](http://freenode.net)
 *   Mailing list: [**rdo-list**](//www.redhat.com/mailman/listinfo/rdo-list), using **[TripleO]** tag in the subject of the e-mail
+*   testing only by me
